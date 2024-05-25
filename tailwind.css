@@ -50,3 +50,20 @@
     display: none;
   }
 }
+
+/* width */
+.scrollbarModal::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+.scrollbarModal::-webkit-scrollbar-track {
+  background: #888;
+  border-radius: 5px;
+}
+
+/* Handle */
+.scrollbarModal::-webkit-scrollbar-thumb {
+  background: #000;
+  border-radius: 5px;
+}

@@ -86,7 +86,7 @@ export default function Timeline({ title, cards }: Itimeline) {
 
       <dialog id="modal1" ref={modal1} class="modal">
         <div class="modal-box max-w-none">
-          <div id="header" class="flex justify-between items-center">
+          <div id="header" class="flex justify-between items-center mb-5">
             <div class="flex flex-col">
               <h3>{modalData.value.year}</h3>
               <p>{modalData.value.name}</p>
@@ -106,15 +106,17 @@ export default function Timeline({ title, cards }: Itimeline) {
             </div>
           </div>
 
-          <div id="body" class="flex gap-2">
-            {modalData.value.details?.map((detail) => (
-              <div class="bg-slate-400 rounded-md">
-                <h3>{detail.year}</h3>
-                <div
-                  dangerouslySetInnerHTML={{ __html: detail.data || "" }}
-                ></div>
-              </div>
-            ))}
+          <div id="body" class="flex w-full scrollbarModal overflow-x-scroll">
+            <div class="w-max flex gap-4 mb-3">
+              {modalData.value.details?.map((detail) => (
+                <div class="bg-slate-400 rounded-md p-4 min-w-min w-[320px]">
+                  <h3>{detail.year}</h3>
+                  <div
+                    dangerouslySetInnerHTML={{ __html: detail.data || "" }}
+                  ></div>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </dialog>
