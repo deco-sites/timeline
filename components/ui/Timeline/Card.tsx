@@ -42,16 +42,20 @@ export interface IDetails {
 
 export interface Props {
   cardData: ICard;
+  modal1: any;
+  modalData: any;
 }
 
-const Card = ({ cardData }: Props) => {
+const Card = ({ cardData, modal1, modalData }: Props) => {
   const { name, year, image, description, categories, color, details } =
     cardData;
 
-  console.log("cardData: ", cardData);
+  // console.log("cardData: ", cardData);
 
   const handleClick = () => {
     console.log("HandleClick");
+    modalData.value = cardData;
+    modal1.current.showModal();
   };
 
   return (
