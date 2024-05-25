@@ -3,26 +3,105 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "Header"
-    },
-    {
       "__resolveType": "site/sections/Timeline.tsx",
       "title": "Linha do Tempo da Música Brasileira",
       "cards": [
         {
-          "data": "2024-05-24T15:13:00.000Z",
-          "name": "qweqwe"
+          "name": "Europeus descobrem a música dos índios",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
+          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
+          "details": [
+            {
+              "year": 1549,
+              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+            }
+          ],
+          "year": 1500
         },
         {
-          "name": "123"
+          "name": "Europeus descobrem a música dos índios",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
+          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
+          "details": [
+            {
+              "year": 1549,
+              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+            }
+          ],
+          "year": 1600
+        },
+        {
+          "name": "Europeus descobrem a música dos índios",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
+          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
+          "details": [
+            {
+              "year": 1549,
+              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+            }
+          ],
+          "year": 1700
+        },
+        {
+          "name": "Europeus descobrem a música dos índios",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
+          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
+          "details": [
+            {
+              "year": 1549,
+              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+            }
+          ],
+          "year": 1800
+        },
+        {
+          "name": "Europeus descobrem a música dos índios",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
+          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
+          "details": [
+            {
+              "year": 1549,
+              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+            }
+          ],
+          "year": 1900
+        },
+        {
+          "name": "Europeus descobrem a música dos índios",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
+          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
+          "details": [
+            {
+              "year": 1549,
+              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+            }
+          ],
+          "year": 2000
+        },
+        {
+          "name": "Europeus descobrem a música dos índios",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
+          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
+          "details": [
+            {
+              "year": 1549,
+              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+            }
+          ],
+          "year": 2100
+        },
+        {
+          "name": "Europeus descobrem a música dos índios",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
+          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
+          "details": [
+            {
+              "year": 1549,
+              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+            }
+          ]
         }
       ]
-    },
-    {
-      "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Timeline</p>",
-      "cta": [],
-      "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away."
     },
     {
       "__resolveType": "Footer"
