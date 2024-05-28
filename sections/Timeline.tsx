@@ -51,7 +51,7 @@ export interface IDetails {
   /**
    * @title Ano
    */
-  year?: number;
+  year?: string;
   /**
    * @title Data
    * @format html
