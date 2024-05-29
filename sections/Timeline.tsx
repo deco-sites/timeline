@@ -23,7 +23,7 @@ export interface ICard {
   /**
    * @title Ano
    */
-  year?: number;
+  year?: string;
   /**
    * @title Imagem
    */
