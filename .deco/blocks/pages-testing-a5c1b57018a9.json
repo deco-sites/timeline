@@ -4,7 +4,7 @@
   "sections": [
     {
       "__resolveType": "site/sections/Timeline.tsx",
-      "title": "Linha do Tempo da Música Brasileira",
+      "title": "RITMOS DO TEMPO: A EVOLUÇÃO DA MÚSICA BRASILEIRA",
       "cards": [
         {
           "name": " Introdução:Raízes",
@@ -152,7 +152,6 @@
             {
               "data": "<p>A partir de 1880, o choro começou a ganhar popularidade nos salões de dança e nos subúrbios do Rio<br>de Janeiro. Ernesto Nazareth e Chiquinha Gonzaga foram figuras-chave nesse processo, sendo os<br>primeiros a dar características próprias ao gênero e a consolidá-lo como uma forma musical distinta. No<br>início do século XX, o choro deixou de ser exclusivamente instrumental, passando a incluir também<br>vocais. Além disso, seu ritmo tornou-se mais rápido, agitado e alegre, refletindo as mudanças sociais e<br>culturais da época. Assim, o choro continuou a evoluir e a se adaptar ao longo do tempo, mantendo-se<br>como uma expressão vibrante e significativa da música brasileira.</p>"
             },
-            {},
             {
               "data": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/An8PE9u5KyE?si=2bFdzNkBMc9Wv-Ha\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\" data-mce-src=\"https://www.youtube.com/embed/An8PE9u5KyE?si=2bFdzNkBMc9Wv-Ha\"></iframe></p>"
             },
@@ -244,7 +243,6 @@
             {
               "data": "<p dir=\"ltr\">Santíssima Trindade do Samba:</p><p dir=\"ltr\"><strong id=\"docs-internal-guid-a5243c3d-7fff-1e4f-81e0-c144a0e8e8cb\"></strong>- Donga</p><p>-Pixinguinha</p><p>-João da Baiana</p>"
             },
-            {},
             {
               "data": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/yNPTI7_ZWvQ?si=oX2cCS879TDeddGL\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\" data-mce-src=\"https://www.youtube.com/embed/yNPTI7_ZWvQ?si=oX2cCS879TDeddGL\"></iframe></p>"
             }
