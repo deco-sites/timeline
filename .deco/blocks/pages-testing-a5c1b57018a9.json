@@ -7,11 +7,20 @@
       "title": "Linha do Tempo da Música Brasileira",
       "cards": [
         {
-          "name": " Raízes",
+          "name": " Introdução:Raízes",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/7a90d992-b0b0-4ab7-a7d7-99c47914f050",
           "description": "A riqueza e diversidade cultural do país são refletidas em sua música brasileira, que é influenciada por raízes indígenas, portuguesas e africanas. Estas influências se mesclaram desde os tempos coloniais para criar uma sonoridade única e vibrante. A música brasileira foi influenciada por ritmos e instrumentos africanos, como o batuque e o berimbau, além de melodias e formas musicais introduzidos por Portugal durante o período colonial. Além disso, as letras e narrativas das músicas refletem as experiências históricas dos africanos e de seus descendentes no Brasil, abordando temas como a celebração da cultura negra e a luta contra a opressão. Até hoje, a música brasileira ainda é influenciada pelas raizes africanas. Artistas como Gilberto Gil e Caetano Veloso incorporaram elementos da música africana em seus trabalhos. Por fim, a música brasileira é uma celebração da diversidade cultural do país, com as influências das raízes africanas, portuguesas e indígenas ressoando em cada nota, destacando a força e resiliência dos povos que contribuíram para sua formação ao longo dos séculos.",
           "details": [
-            {}
+            {
+              "data": "<p><strong id=\"docs-internal-guid-c6af2988-7fff-33e3-8af4-f42681652d6c\">A riqueza e diversidade cultural do país são refletidas em sua música brasileira, que é influenciada por raízes indígenas, portuguesas e africanas. Estas influências se mesclaram desde os tempos coloniais para criar uma sonoridade única e vibrante.&nbsp;<br></strong></p>",
+              "year": "Introdução"
+            },
+            {
+              "data": "<p><strong id=\"docs-internal-guid-c6af2988-7fff-33e3-8af4-f42681652d6c\">A música brasileira foi influenciada por ritmos e instrumentos africanos, como o batuque e o berimbau, além de melodias e formas musicais introduzidos por Portugal durante o período colonial. Além disso, as letras e narrativas das músicas refletem as experiências históricas dos africanos e de seus descendentes no Brasil, abordando temas como a celebração da cultura negra e a luta contra a opressão. </strong></p>"
+            },
+            {
+              "data": "<p><strong id=\"docs-internal-guid-ffe84c74-7fff-ddee-b45c-762834802c35\">&nbsp;Artistas como Gilberto Gil e Caetano Veloso incorporaram elementos da música africana em seus trabalhos. Por fim, a música brasileira é uma celebração da diversidade cultural do país, com as influências das raízes africanas, portuguesas e indígenas ressoando em cada nota, destacando a força e resiliência dos povos que contribuíram para sua formação ao longo dos séculos.<br></strong></p>"
+            }
           ],
           "year": "1500"
         },
@@ -21,86 +30,402 @@
           "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
           "details": [
             {
-              "year": "1549w",
-              "data": "<p><iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" width=\"560\" height=\"315\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\" data-mce-src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\"></iframe></p>"
+              "year": "1500 - 1900",
+              "data": "<p dir=\"ltr\">A história da música brasileira do século 1500 a 1900 é composta por uma riqueza de influências de culturas indígenas, africanas e europeias. Quando os portugueses chegaram em 1500, a música indígena já era vibrante no período colonial. Novas danças e músicas chegaram à cultura local com a chegada dos primeiros escravos africanos em 1538. Aproximadamente 3,5 milhões de africanos chegaram ao Brasil até 1850, trazendo elementos essenciais para a música brasileira original.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p>A música foi um recurso eficaz para a conversão de povos indígenas ao cristianismo quando a Companhia de Jesus chegou ao Brasil em 1549. As atividades jesuíticas incluíram o ensino de música, e a prática musical continuou nos séculos XVII e XVIII. A música jesuítica no Brasil não foi tão desenvolvida quanto nas reduções espanholas, mas influenciou a formação da cultura brasileira, apesar de vasta documentação.</p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">A música brasileira evoluiu ao longo dos séculos, criando uma tapeçaria sonora única que preparou o caminho para os estilos modernos do século XX, demonstrando como diferentes culturas podem se conectar e criar algo novo e extraordinário.</p><p><br data-mce-bogus=\"1\"></p>"
             }
           ],
           "color": "#915f5f",
-          "year": "1500 - 1700"
+          "year": "1530"
         },
         {
-          "name": "Europeus descobrem a música dos índios",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
-          "description": "A história da música brasileira do século 1500 a 1900 é composta por uma riqueza de influências de culturas indígenas, africanas e europeias. Quando os portugueses chegaram em 1500, a música indígena já era vibrante no período colonial. Novas danças e músicas chegaram à cultura local com a chegada dos primeiros escravos africanos em 1538. Aproximadamente 3,5 milhões de africanos chegaram ao Brasil até 1850, trazendo elementos essenciais para a música brasileira original. A música foi um recurso eficaz para a conversão de povos indígenas ao cristianismo quando a Companhia de Jesus chegou ao Brasil em 1549. As atividades jesuíticas incluíram o ensino de música, e a prática musical continuou nos séculos XVII e XVIII. A música jesuítica no Brasil não foi tão desenvolvida quanto nas reduções espanholas, mas influenciou a formação da cultura brasileira, apesar de vasta documentação. A música brasileira evoluiu ao longo dos séculos, criando uma tapeçaria sonora única que preparou o caminho para os estilos modernos do século XX, demonstrando como diferentes culturas podem se conectar e criar algo novo e extraordinário.",
+          "name": "Barroco",
           "details": [
             {
-              "data": "<p dir=\"ltr\">A história da música brasileira do século 1500 a 1900 é composta por uma riqueza de influências de culturas indígenas, africanas e europeias. Quando os portugueses chegaram em 1500, a música indígena já era vibrante no período colonial. Novas danças e músicas chegaram à cultura local com a chegada dos primeiros escravos africanos em 1538. Aproximadamente 3,5 milhões de africanos chegaram ao Brasil até 1850, trazendo elementos essenciais para a música brasileira original.</p><p dir=\"ltr\">A música foi um recurso eficaz para a conversão de povos indígenas ao cristianismo quando a Companhia de Jesus chegou ao Brasil em 1549. As atividades jesuíticas incluíram o ensino de música, e a prática musical continuou nos séculos XVII e XVIII. A música jesuítica no Brasil não foi tão desenvolvida quanto nas reduções espanholas, mas influenciou a formação da cultura brasileira, apesar de vasta documentação.</p><p dir=\"ltr\">A música brasileira evoluiu ao longo dos séculos, criando uma tapeçaria sonora única que preparou o caminho para os estilos modernos do século XX, demonstrando como diferentes culturas podem se conectar e criar algo novo e extraordinário.</p><p><br data-mce-bogus=\"1\"></p>"
+              "data": "<p dir=\"ltr\">A época barroca, que aconteceu na Europa do final do século XVI ao XVIII e no Brasil de 1601 a 1768, teve impactos culturais significativos. Na Europa, escritores como Luis de Góngora e Francisco de Quevedo foram notáveis, enquanto ritmos instrumentais foram criados por grandes compositores como Antonio Vivaldi e Johann Sebastian Bach. O barroco brasileiro foi influenciado pela Contrarreforma Católica e viu o surgimento de importantes obras literárias e artísticas.<br></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">No século XVIII, também surgiram as charangas de barbeiros, grupos musicais formados por escravos negros barbeiros que tocavam vários instrumentos em eventos públicos e festas. A música popular instrumental brasileira começou com essas charangas, também conhecidas como \"ritmos de senzala\". Eles também influenciaram outros estilos musicais, como ternos, bandas de coreto, música militar e choro, deixando um legado duradouro na música brasileira.</p><p><br data-mce-bogus=\"1\"></p>"
             }
           ],
-          "year": "1700"
+          "year": "1600",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/5a5fb390-acc4-4b4d-afe4-c84f8ad3d986"
         },
         {
-          "name": "Europeus descobrem a música dos índios",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
-          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
           "details": [
             {
-              "year": "1549",
-              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+              "data": "<p dir=\"ltr\">&nbsp;a evolução da música no Brasil, desde os tempos coloniais até os dias atuais. Destaca-se a importância dos barbeiros, ex-escravos alforriados que desenvolviam habilidades musicais intuitivas, criando um estilo precursor do choro. O choro, surgido no século XIX no Rio de Janeiro, tornou-se um símbolo da cultura brasileira, influenciando compositores como Joaquim Callado Jr. e Heitor Villa-Lobos, este último conhecido por integrar elementos folclóricos e populares em suas composições, como nas Bachianas Brasileiras.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p>A conexão entre música erudita e popular foi pavimentada por Villa-Lobos, Radamés Gnattali e Guerra Peixe, sendo consolidada pela Semana de Arte Moderna de 1922. Essa integração entre diferentes estilos musicais enriqueceu a música brasileira, influenciando gerações posteriores de músicos e contribuindo para a diversidade e autenticidade da nossa expressão musical.<br><br></p>"
             }
           ],
-          "year": "1800"
+          "name": "A musica dos barbeiros",
+          "year": "1700",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/791d0d7e-87f1-41ac-84bf-8fd81c9a1547"
         },
         {
-          "name": "Europeus descobrem a música dos índios",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
-          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
           "details": [
             {
-              "year": "1549",
-              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+              "data": "<p dir=\"ltr\">A modinha, surgida no século XVIII em Portugal e depois no Brasil, foi uma forma de entretenimento leve em salões da corte de D. Maria I. Originada da moda, era acompanhada por instrumentos em festas e lazer. Inspirada por gêneros europeus como a canzonetta e o Lied, a modinha portuguesa adaptou melodias operísticas à prática doméstica.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">No Brasil, a modinha brasileira, introduzida por Domingos Caldas Barbosa em Lisboa, abordava temas amorosos com ousadia. Esse estilo se desenvolveu ao longo do século XIX, tornando-se uma canção de sala com piano. Paralelamente, houve um florescimento da música sacra com nomes como Inácio Parreiras Neves, contribuindo para a música popular brasileira.</p><p><br data-mce-bogus=\"1\"></p>"
             }
           ],
-          "year": "1900"
+          "name": "A modinha portuguesa",
+          "year": "1750",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/031519e0-962e-4303-8336-c3ce514f5bbe"
         },
         {
-          "name": "Europeus descobrem a música dos índios",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/357a0a60-71ca-4f8b-9863-a1eb716c7bd7",
-          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
           "details": [
             {
-              "year": "1549",
-              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+              "data": "<p>O lundu instrumental surgiu no Brasil no século XVIII, originando-se da fusão de influências<br>africanas e ibéricas. Caracterizado por seus ritmos sincopados e movimentos corporais<br>expressivos, como a umbigada, o lundu instrumental utilizava principalmente instrumentos<br>de percussão, como tambores e pandeiros, além de cordofones, como o violão.</p>"
+            },
+            {
+              "data": "<p>● Origem: O lundu instrumental teve origem no Brasil durante o século XVIII.</p><p>● Fusão Cultural: Originou-se da fusão de influências africanas e ibéricas.</p><p>● Características Musicais: O lundu instrumental é caracterizado por seus ritmos sincopados e movimentos corporais expressivos, como a umbigada.</p><p>● Instrumentação Principal: Utilizava principalmente instrumentos de percussão, como<br>tambores e pandeiros, além de cordofones, como o violão.</p>"
+            },
+            {
+              "data": "<p>O lundu-canção evoluiu do lundu instrumental no final do século XVIII e início do XIX. Essa<br>transformação é atribuída em parte a Domingos Caldas Barbosa, que introduziu o lundu nos<br>salões de Lisboa como uma forma de canção, diferenciando-o da dança instrumental. O<br>lundu-canção manteve o ritmo sincopado característico do lundu original, mas passou a<br>incorporar letras. Inicialmente, as letras tinham temáticas amorosas, mas, ao longo do<br>século XIX, passaram a ter um caráter mais satírico. Esta forma de lundu tornou-se uma<br>variação da modinha, sendo popular tanto no Brasil quanto em Portugal durante o século<br>XIX. O lundu-canção influenciou significativamente a música popular brasileira,<br>consolidando-se como um gênero tipicamente brasileiro.</p>"
+            },
+            {
+              "data": "<p>● Evolução do Lundu Instrumental: O lundu-canção evoluiu do lundu instrumental no<br>final do século XVIII e início do XIX.</p><p>● Contribuição de Domingos Caldas Barbosa: Domingos Caldas Barbosa<br>desempenhou um papel importante ao introduzir o lundu nos salões de Lisboa,<br>transformando-o em uma forma de canção, diferenciando-o da dança instrumental.</p><p>● Características do Lundu-Canção: Mantém o ritmo sincopado do lundu original, mas<br>passa a incorporar letras, inicialmente com temáticas amorosas e posteriormente<br>com um caráter mais satírico.</p><p>● Popularidade e Influência: Tornou-se uma variação da modinha e foi popular tanto no<br>Brasil quanto em Portugal durante o século XIX. O lundu-canção exerceu uma<br>influência significativa sobre a música popular brasileira, consolidando-se como um<br>gênero tipicamente brasileiro.</p>"
             }
           ],
-          "year": "2000"
+          "name": "Lundu",
+          "year": "1780",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/34a7f509-7bf5-40ff-b623-0cc861c30701"
         },
         {
-          "name": "Europeus descobrem a música dos índios",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
-          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
           "details": [
             {
-              "year": "1549",
-              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+              "data": "<p>No século XIX, a música brasileira diversificou-se, com o maxixe e o choro emergindo. A<br>chegada da família real portuguesa em 1808 trouxe influências europeias, especialmente na<br>música clássica. A música popular evoluiu com novos instrumentos como o violão e a<br>música afro-brasileira avançou com o candomblé e outras tradições religiosas africanas.</p>"
+            },
+            {
+              "data": "<p>● Diversificação da Música Brasileira no Século XIX:<br>A música brasileira começou a se diversificar durante o século XIX.<br>A música popular passou a ser mais presente em festas e eventos populares.<br>Enquanto isso, a música clássica e operística era apreciada principalmente pela elite<br>cultural.</p><p>●Surgiram novos gêneros musicais, incluindo o maxixe e o choro.</p><p>● Influência da Família Real Portuguesa em 1808:<br>A chegada da família real portuguesa em 1808 trouxe uma forte influência da música<br>europeia para o Brasil.<br>Especialmente notável foi a influência da música clássica europeia.<br>A música popular brasileira também se sofisticou, com a introdução de novos<br>instrumentos musicais, como o violão.</p><p>● Evolução da Música Afro-Brasileira:<br>A música afro-brasileira continuou a evoluir durante o século XIX.<br>Houve a introdução de tradições religiosas africanas, como o candomblé, que<br>deixaram uma marca significativa na música brasileira.</p>"
+            },
+            {
+              "year": "1848",
+              "data": "<p>Joaquim Callado (1848-1880), compositor e flautista, é considerado o pai do choro e criador<br>do Choro Carioca, o primeiro conjunto instrumental com flauta, cavaquinho e violão.<br>Tornou-se o instrumentista mais popular do Rio de Janeiro durante o Império. Seu maior<br>sucesso, \"Flor Amorosa,\" é conhecido como o primeiro choro composto. Estreou como<br>flautista no Teatro Ginásio Dramático em 1866. Em 1867, obteve sucesso com a quadrilha<br>\"Carnaval de 1867\" e publicou a polca \"Querida por todos,\" dedicada a Chiquinha Gonzaga.<br>Em 1870, foi fundamental na estilização do choro, tornando-o um dos principais gêneros da<br>música popular brasileira.</p>"
+            },
+            {
+              "year": "1863",
+              "data": "<p>Ernesto Nazareth (1863-1934) foi um importante compositor brasileiro, focado em obras<br>instrumentais para piano. Compôs sua primeira peça, a polca-lundu \"Você bem sabe,\" aos<br>14 anos. Ao longo de sua vida, escreveu 211 peças.</p>"
+            },
+            {
+              "year": "1875",
+              "data": "<p>O maxixe, surgido por volta de 1875 no Rio de Janeiro, foi a primeira dança urbana do<br>Brasil, conhecida como \"dança proibida\" devido à sua sensualidade e frequentada por<br>classes sociais variadas. Perseguido pela sociedade e a Igreja, só entrou em salões<br>elegantes em 1914, quando Nair de Tefé tocou \"Corta-jaca\" de Chiquinha Gonzaga. Com<br>influências da polca, habanera e lundu, o maxixe combinou vários estilos e se popularizou<br>em clubes carnavalescos e teatros. A música maxixe firmou-se após 1902. Divulgado<br>internacionalmente por Antônio Lopes de Amorim Diniz, o maxixe ajudou a nacionalizar a<br>música popular brasileira.</p>"
             }
           ],
-          "year": "2100"
+          "name": "Período Imperial",
+          "year": "1800",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/8797b88e-5ded-4f3e-b2b5-5dbfc0a4e217"
         },
         {
-          "name": "Europeus descobrem a música dos índios",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/cd17596f-e839-4111-8628-a5e9709212f9",
-          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
           "details": [
             {
-              "year": "1549",
-              "data": "<p>&lt;iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQw4w9WgXcQ?si=jKsUEFbHskb4bDR3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;&lt;/iframe&gt;</p>"
+              "data": "<p>O choro, gênero musical de origem brasileira, é fruto de uma rica mistura cultural que se desenvolveu no<br>Rio de Janeiro ao final do século XIX. Nascido da interação entre elementos das danças de salão<br>europeias, da música popular portuguesa e das influências da música africana, o choro possui<br>características distintas, como sua forma rondó, compasso binário e um fraseado peculiar. Instrumentos<br>como o violão, a flauta e o cavaquinho foram fundamentais para criar uma atmosfera sentimental e<br>melancólica, que caracteriza esse estilo musical. Quanto à origem do termo \"choro\", há diversas teorias:<br>Luís da Câmara Cascudo associa-o ao xolo, um tipo de baile entre escravos, enquanto Ary Vasconcelos<br>sugere uma ligação com a corporação musical dos choromeleiros do período colonial.</p>"
+            },
+            {
+              "data": "<p>A partir de 1880, o choro começou a ganhar popularidade nos salões de dança e nos subúrbios do Rio<br>de Janeiro. Ernesto Nazareth e Chiquinha Gonzaga foram figuras-chave nesse processo, sendo os<br>primeiros a dar características próprias ao gênero e a consolidá-lo como uma forma musical distinta. No<br>início do século XX, o choro deixou de ser exclusivamente instrumental, passando a incluir também<br>vocais. Além disso, seu ritmo tornou-se mais rápido, agitado e alegre, refletindo as mudanças sociais e<br>culturais da época. Assim, o choro continuou a evoluir e a se adaptar ao longo do tempo, mantendo-se<br>como uma expressão vibrante e significativa da música brasileira.</p>"
             }
           ],
-          "year": "2200"
+          "name": "O choro",
+          "year": "1880",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/5f5ab883-22e2-4991-a03f-9c06280300e0"
         },
         {
-          "details": []
+          "details": [
+            {
+              "data": "<p>O frevo é um ritmo marcante e vigoroso da cultura pernambucana, representando uma combinação<br>única de melodia complexa e interação dinâmica entre os instrumentos. Caracterizado por uma<br>execução frenética e vibrante, é uma das marcas registradas do Carnaval de Pernambuco e reflete as<br>profundas raízes históricas e identitárias do estado.</p>"
+            },
+            {
+              "data": "<p>Nesta forma de música e dança, os metais&nbsp;assumem o papel de \"questionadores\" com seus motivos intrincados, enquanto as madeiras respondem&nbsp;com vigor. Cada frase musical é executada com precisão, adornada por floreios e notas agudas que<br>pontuam os ritmos acelerados e sincopados, criando uma experiência auditiva emocionante.</p>"
+            },
+            {
+              "data": "<p>Ao longo da história,&nbsp;mestres como Maestro Zuzinha, Nelson Ferreira e Capiba enriqueceram o frevo, solidificando-o como<br>uma forma distintiva de expressão musical. Suas obras refletem a vitalidade e criatividade do povo<br>pernambucano, celebrando a rica herança cultural do Nordeste brasileiro e inspirando gerações de<br>músicos e dançarinos.</p>"
+            }
+          ],
+          "name": "O frevo",
+          "year": "1907",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/7287095d-3567-43d5-848c-7980b124d113"
+        },
+        {
+          "details": [
+            {
+              "data": "<p>O Modernismo brasileiro, representado pela Semana de Arte Moderna de 1922, não só marcou uma<br>revolução cultural nas artes plásticas e literatura, mas também teve um impacto profundo na música<br>brasileira.</p>"
+            },
+            {
+              "data": "<p>Figuras como Mário de Andrade defendiam a nacionalização da música erudita, inspirando-se<br>no folclore nacional. Heitor Villa-Lobos se destacou como o principal expoente dessa abordagem,<br>mesclando elementos folclóricos com linguagem erudita de forma inovadora e original.</p>"
+            },
+            {
+              "data": "<p>Embora as&nbsp;mudanças não tenham sido imediatas, ao longo do tempo, a música brasileira passou por uma<br>renovação gradual, promovendo um diálogo entre a música erudita e popular, enriquecendo a<br>diversidade musical do país. Villa-Lobos, influenciado pelo ambiente cultural do Rio de Janeiro e pelo<br>convívio com diferentes gêneros musicais, teve um papel significativo nesse processo, mas outros<br>artistas como Noel Rosa, Pixinguinha e Lamartine Babo também contribuíram, incorporando elementos<br>modernos à música popular urbana.</p>"
+            },
+            {
+              "data": "<p>Ao longo das décadas seguintes, o Modernismo continuou a<br>influenciar gerações posteriores de compositores, mantendo viva a abertura para novas influências e a<br>valorização da cultura nacional. O legado do Modernismo na música brasileira é marcado pela fluidez<br>entre o erudito e o popular, refletindo a criatividade e diversidade cultural do Brasil até os dias de hoje.</p>"
+            }
+          ],
+          "name": "O modernismo",
+          "year": "1922",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/f0473331-da77-45c3-ab6b-fa3d3ca27cbc"
+        },
+        {
+          "details": [
+            {
+              "data": "<p dir=\"ltr\">A primeira transmissão de rádio no Brasil ocorreu em 7 de setembro de 1922, durante a inauguração da Exposição do Centenário da Independência na Esplanada do Castelo.</p><p dir=\"ltr\">Em 1923 é inaugurada a primeira emissora de rádio, a Rádio Sociedade do Rio de Janeiro (atual Rádio MEC).&nbsp;</p><p dir=\"ltr\">A era de ''Ouro do Rádio\" começou por aqui durante os anos 1930, com o aprimoramento das tecnologias usadas no rádio, que teve seu auge nos pós Primeira Guerra Mundial (1914 – 1918).</p><p dir=\"ltr\">O período ficou conhecido dessa forma por se tratar da época em que o rádio se popularizou entre a população brasileira e se tornou principal comunicação de massa</p><p dir=\"ltr\">A emissora mais importante no Brasil na época: A Rádio Nacional</p><p dir=\"ltr\">Além de música eram transmitidas dramaturgias, programa humorísticos, o jornalismo, política e anúncios.</p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Três figuras se destacaram como ícones inesquecíveis, sendo elas: Carmen Miranda, Dorival Caymmi e Assis Valente.</p><p dir=\"ltr\">Carmen Miranda foi uma grande estrela do rádio e do cinema, levando a música brasileira para o mundo. Dorival Caymmi destacou-se por suas canções sobre a Bahia, enquanto Assis Valente, conhecido por suas letras humorísticas, contribuiu com músicas que capturavam a diversidade cultural do Brasil.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">\"Nós somos as cantoras do rádio/ Levamos a vida a cantar. De noite embalamos teu sono/ De manhã nós vamos te acordar.\"</p><p dir=\"ltr\">a partir da década de 1930, talentos femininos desabrocham no rádio e, com suas habilidades excepcionais, coragem e sonho, consagram-se como as Cantoras do Rádio.</p><p dir=\"ltr\">Elas tiveram um papel muito importante papel na disseminação da cultura musical brasileira</p><p dir=\"ltr\">Entre as 24 artistas que iniciaram suas carreiras nesse período, destacam-se nomes como: Carmen Miranda, Dalva de Oliveira, Emilinha Borba, Aracy de Almeida e etc…</p><p dir=\"ltr\">Essas cantoras contribuíram para consolidar o rádio como um dos principais meios de divulgação cultural no Brasil.&nbsp;</p><p><br data-mce-bogus=\"1\"></p>"
+            }
+          ],
+          "name": "A Era do rádio",
+          "year": "1930",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/73184ef6-b5f8-4b88-835a-ed4734b0f0dc"
+        },
+        {
+          "details": [
+            {
+              "data": "<p dir=\"ltr\">Entre 1917 e 1931, a vida musical popular brasileira se modificou radicalmente com o surgimento de um novo gênero, que iria mudar nossa história musical: O Samba.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<ul><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">O samba, uma das expressões musicais mais emblemáticas do Brasil, nasceu da fusão dos batuques trazidos pelos negros escravizados com influências dos ritmos europeus. Originado nas festas de danças dos negros escravos na Bahia, inicialmente denominadas de \"samba\".</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Derivado da umbigada (A palavra samba procede da expressão africana “semba” – que quer dizer umbigada – empregada para designar dança de roda.), um ritmo africano, o samba surgiu em 1838, com influência da modinha, do maxixe e do lundu, a palavra designava uma variedade de danças de origem negra.</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">&nbsp;O gênero teve seu berço no Recôncavo Baiano, porém ganhou força no Rio de Janeiro</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">&nbsp;O samba foi alvo de desconfiança e criminalização. Assim, os negros passaram a realizar suas festas nas casas das \"tias\" ou \"vovós\", matriarcas afrodescendentes que acolhiam os batuques, sendo a casa de Tia Ciata, mãe de santo carioca, uma das mais famosas nesse contexto.</p></li></ul><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Em meados do século 20, a palavra samba definia diferentes tipos de música introduzidos pelos escravos africanos, e sempre conduzidos por diversos tipos de batuques, mas que assumiam características próprias em cada estado brasileiro, não só pela diversidade das tribos de escravos, como pela peculiaridade de cada região em que foram assentados, mas em geral era um tipo de música identificada para as pessoas mais humildes. </p><p dir=\"ltr\">A primeira geração do samba, João da Baiana, Donga e Pixinguinha, entre outros, tinha a marca do maxixe e do choro, e a partir das comunidades negras irradiou esta forma para toda a vida carioca e, posteriormente, para toda a vida musical brasileira.&nbsp;</p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">A casa da Tia Ciata era o polo coletivo da criação musical, quando Donga registrou a música “Pelo Telefone</p><p dir=\"ltr\">Pelo Telefone é considerado o primeiro samba levado ao disco, porque, somente a partir dele, teve início uma série de gravações de músicas identificadas como samba.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p>- Nascido Ernesto Joaquim Maria dos Santos em 1889, conhecido popularmente como Donga foi criado em um ambiente musical diversificado, ondSinhô – José Barbosa da Silva “O Rei do Samba”.<br data-mce-bogus=\"1\"></p><p dir=\"ltr\" role=\"presentation\">- O Rei do Samba.</p><p dir=\"ltr\" role=\"presentation\">- Seu envolvimento com a música começou nos carnavais&nbsp;</p><p dir=\"ltr\" role=\"presentation\">- A partir de 1917, se destacou como autor de grandes sucessos do samba</p><p dir=\"ltr\" role=\"presentation\">- Além do carnaval, suas músicas também se tornaram populares no teatro de revista.</p><p dir=\"ltr\" role=\"presentation\">- Sinhô foi o mais importante compositor da primeira fase do samba carioca</p><p dir=\"ltr\"><br></p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Santíssima Trindade do Samba:</p><p dir=\"ltr\"><strong id=\"docs-internal-guid-a5243c3d-7fff-1e4f-81e0-c144a0e8e8cb\"></strong>- Donga</p><p>-Pixinguinha</p><p>-João da Baiana</p>"
+            }
+          ],
+          "name": "O Samba",
+          "year": "1940 ",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/c0eaf768-f6b4-4adb-b9e7-f42e901b470c"
+        },
+        {
+          "details": [
+            {
+              "data": "<p dir=\"ltr\">A bossa nova foi um movimento musical revolucionário que surgiu no Brasil nas décadas de 1950 e 1960. Inspirado pela mistura de samba, jazz e música popular americana, a bossa nova foi criada por músicos como João Gilberto, Tom Jobim e Vinicius de Moraes.</p><p dir=\"ltr\">Com uma sonoridade suave e sofisticada, a bossa nova introduziu ao mundo um novo estilo de composição e interpretação musical. As letras das músicas eram poéticas e românticas, muitas vezes retratando a beleza do Rio de Janeiro e a vida urbana.</p><p dir=\"ltr\">O ritmo marcante da bossa nova, com batidas sincopadas e melodias delicadas, conquistou fãs em todo o mundo e se tornou um dos gêneros musicais mais influentes da história. Canções como \"Garota de Ipanema\", \"Chega de Saudade\" e \"Desafinado\" se tornaram clássicos instantâneos e foram regravadas por diversos artistas ao redor do mundo.</p><p dir=\"ltr\">Além da música, a bossa nova também teve um impacto cultural profundo, influenciando a moda, a arte e o comportamento da época. Com sua estética elegante e despojada, a bossa nova representava um estilo de vida moderno e cosmopolita, que logo se tornou símbolo do Brasil no cenário internacional.</p><p><br data-mce-bogus=\"1\"></p>",
+              "year": "Bossa nova"
+            },
+            {
+              "data": "<p dir=\"ltr\">Em resumo, a bossa nova foi mais do que um simples gênero musical - foi um movimento cultural que marcou uma era e continua encantando gerações até os dias de hoje. Seu legado permanece vivo na memória dos amantes da música e na história da música brasileira.</p><p><br data-mce-bogus=\"1\"></p>",
+              "year": "Resumo do que foi bossa nova"
+            },
+            {
+              "data": "<p dir=\"ltr\">Marcos Valle é considerado um dos pioneiros da bossa nova no Brasil. Nascido em Rio de Janeiro, Valle é um cantor, compositor e produtor musical que começou sua carreira nos anos 1960, durante o auge da bossa nova no país. Suas músicas, como \"Samba de Verão\" e \"Garra\", são consideradas clássicos do gênero e continuam sendo interpretadas até hoje.</p>",
+              "year": "Quem foi Marcos Valle?"
+            }
+          ],
+          "name": "Bossa Nova",
+          "year": "1950",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/bfc7c735-7db7-43f2-96f6-5f58d9fef876"
+        },
+        {
+          "details": [
+            {
+              "data": "<p>O rock brasileiro é como uma trilha sonora em constante mudança, refletindo não apenas a evolução da música, mas também as transformações em nossa sociedade e cultura ao longo dos anos. Vamos dar uma volta no tempo e explorar essa jornada musical</p>"
+            },
+            {
+              "year": "Anos 50 e 60 ",
+              "data": "<p dir=\"ltr\">O Começo da História: Imagine-se nos anos 1950 e 1960, quando o rock estava começando a invadir o Brasil. Artistas como Elvis Presley e Chuck Berry inspiraram uma nova geração de músicos. Mas aqui, a música ganhou um toque brasileiro, com letras em português que ecoavam o sentimento jovem da época.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "year": "Década de 60",
+              "data": "<p>Então, nos anos 60, algo mágico aconteceu. Surgiu a Tropicália, com artistas como Caetano Veloso, Gilberto Gil e Os Mutantes misturando influências brasileiras com psicodelia e experimentação. Era como se a música estivesse colorindo os sons da natureza e das ruas, com letras que eram como poesia cantada, cheias de reflexões sobre o mundo ao nosso redor.</p>"
+            },
+            {
+              "year": "Anos 70 ",
+              "data": "<p>O Rock se Torna Brasileiro: Avançando para os anos 70, o rock brasileiro estava se consolidando. Bandas como Secos &amp; Molhados e Raul Seixas estavam no auge, explorando uma infinidade de estilos, do progressivo ao folk, com letras que nos faziam refletir sobre a vida, o amor e o que significava ser brasileiro mesmo em um contexto cheio de dificuldades.</p>"
+            },
+            {
+              "year": "Final dos anos 70 e início dos anos 80",
+              "data": "<p dir=\"ltr\">Então veio o punk, com sua energia crua e suas letras diretas sobre as coisas que realmente importavam. Bandas como Legião Urbana e Os Paralamas do Sucesso capturaram a essência da juventude urbana, cantando sobre as lutas diárias e a busca por identidade.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "year": "Anos 80 e 90",
+              "data": "<p dir=\"ltr\">Nos anos 80 e 90, o rock nacional explodiu em todas as direções. Bandas como Barão Vermelho e Engenheiros do Hawaii dominavam as paradas, com músicas que nos faziam cantar, dançar e pensar sobre a vida. Cada acorde de guitarra era como um grito de liberdade, uma expressão do que significava ser jovem.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "year": "Do Novo Milênio até Hoje - Diversidade e Conexão",
+              "data": "<p>Agora, nos encontramos no novo milênio, onde o rock brasileiro continua a evoluir e se reinventar. Com a internet e as redes sociais, bandas independentes têm mais espaço do que nunca para compartilhar sua música com o mundo. O rock absorve novas influências a cada dia, refletindo diversidade e a riqueza cultural do Brasil.</p>"
+            }
+          ],
+          "name": "Rock",
+          "year": "1970 – 1990",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/d8e9a20e-8dad-43ba-be61-6d6f08659c50"
+        },
+        {
+          "details": [
+            {
+              "data": "<p dir=\"ltr\">Com o advento do rádio e outras mídias tecnológicas, ocorrido entre o final do século XIX e início do XX, a forma de produzir e apreciar música e outras formas de arte mudou, novos gêneros musicais surgiram, iniciando, assim, o processo de industrialização cultural.</p><p><br data-mce-bogus=\"1\"></p>",
+              "year": "Introdução"
+            },
+            {
+              "data": "<p dir=\"ltr\">Proposto na década de 1940 pelos filósofos Adorno e Horkheimer, Indústria Cultural é um conceito que busca explicar a padronização do setor cultural devido ao uso de aparatos tecnológicos em sua produção. Embora a industrialização possibilite o acesso de maior parte da população a essas obras, também exclui a originalidade e essência das mesmas, impedindo o senso crítico e proporcionando uma forma de entretenimento fácil, visando apenas o lucro sem se preocupar muito com o valor cultural.&nbsp;</p><p dir=\"ltr\">Com o processo de massificação cultural, iniciado no século XX, novos estilos musicais surgiram em uma tentativa de atingir o maior número de ouvintes possíveis. Dessa forma, os gêneros musicais brasileiros de maior repercussão foram criados.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p>",
+              "year": "Massificação cultural"
+            }
+          ],
+          "name": "Era das massas",
+          "year": "1990 - 2000",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/b7306797-4c29-42d7-bf81-ed68346b3ba2"
+        },
+        {
+          "details": [
+            {
+              "data": "<p dir=\"ltr\">A música sertaneja no Brasil remonta aos tempos coloniais, com letras que narram a vida cotidiana do homem no campo e a valorização do jeito caipira de ser, provenientes, majoritariamente, das regiões Sul, Sudeste e Centro-Oeste do Brasil.&nbsp;</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Com o passar do tempo, por volta das décadas de 1970 e 1980 e com a veiculação das músicas no rádio, o ritmo sertanejo vai, gradativamente, se modificando. O foco principal das narrativas das letras não é mais a vida cotidiana e sim o ideal de um amor não correspondido, marcando uma nova geração poética desse estilo musical. Nessa perspectiva, ganha destaque a dupla Leo Canhoto e Robertinho, os primeiros a obter grande êxito em vendas de discos.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Outro fator de extrema influência para a música sertaneja é a constante de apresentações televisivas e participações em trilhas sonoras de novelas, na década de 1980, o que auxiliou na perpetuação do gênero musical. É nesse período que duplas famosas como Chitãozinho e Xororó, Leandro e Leonardo e Zezé di Camargo e Luciano surgem.</p><p><br data-mce-bogus=\"1\"></p>"
+            }
+          ],
+          "name": "Sertanejo",
+          "year": "1990",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/0b7afc3f-7fe6-402c-8d73-66238ad2ae8d"
+        },
+        {
+          "details": [
+            {
+              "data": "<p dir=\"ltr\">Criado inicialmente como uma variação do samba, o pagode surgiu nos anos 70 no Rio de Janeiro, e foi se popularizando com o decorrer das décadas. As primeiras manifestações desse ritmo aconteciam durante encontros em fundo de quintais, onde os compositores e cantores se encontravam, tocavam, bebiam e comiam em volta de uma mesa, dessas reuniões nomes importantes como Zeca Pagodinho, Jorge Aragão, Leci Brandão e Luiz Carlos da Vila surgiram.&nbsp;</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Coreografias montadas, figurinos e novos instrumentos constituíam as performances dos grupos, iniciando uma nova vertente desse gênero musical denominado pagode romântico. Nos anos 1990, os grupos de maior representatividade desse gênero surgiram, nomes como Raça Negra, Exaltasamba e Só Pra Contrariar.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Já no final da década de 90, o pagode romântico dava sinais de esgotamento, muitos grupos influentes dessa época se separam e seus respectivos vocalistas começam a investir em carreiras solo. Com a chegada dos anos 2000, um resgate às raízes do samba se faz necessário, as rodas de samba e pagode voltam a ter força e, consequentemente, seus artistas também.&nbsp;</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Além disso, novos nomes como Dudu Nobre, Pedro de Hollanda, Nilze Carvalho e Teresa Cristina têm se destacado entoando o famoso “samba de raiz”, que é presente até os dias de hoje.</p><p><br data-mce-bogus=\"1\"></p>"
+            }
+          ],
+          "name": "Pagode",
+          "year": "1994",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/bb9c5579-a784-4f2e-836a-c1998b4a23b9"
+        },
+        {
+          "details": [
+            {
+              "data": "<p dir=\"ltr\">O axé music surgiu na Bahia por volta de 1980, com suas raízes em diferentes ritmos de música brasileira como o samba, frevo, ijexá, reggae, salsa, rock e a lambada, foi produzido como um ritmo dançante, restrito aos trios elétricos de Salvador e associado ao carnaval.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Segundo Guerreiro (2000, p. 133), o axé music é o “encontro da música de trio com a música dos blocos afros (frevo baiano + samba-reggae)”, com sonoridades harmônicas e percussivas.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p>Como gênero musical, o axé music tem seu marco inicial com o lançamento da música “Fricote” de Luiz Caldas e Paulinho Camafeu, em 1985, popularizando o ritmo e ocasionando uma rápida ascensão da música baiana.</p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">A partir da década de 1990, outros artistas surgem e perpetuam o axé como ritmo musical no país inteiro, é o caso do grupo É o Tchan e de outros artistas como Carlinhos Brown, Ivete Sangalo, Daniela Mercury, entre outros.</p><p><br data-mce-bogus=\"1\"></p>"
+            }
+          ],
+          "name": "Axé music",
+          "year": "1999",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/e46b4c12-fc3c-4cd9-b8ad-87dff35cf17a"
+        },
+        {
+          "details": [
+            {
+              "data": "<p dir=\"ltr\">A música brasileira contemporânea, no período entre 2000 até os dias atuais, apresenta uma diversidade de gêneros, estilos e influências que refletem a riqueza cultural musical do Brasil. Alguns pontos importantes sobre esse tema:</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Durante esse período, vários gêneros musicais ganharam destaque no cenário brasileiro. O sertanejo universitário, o pop, o trap, e o funk tiveram um grande impacto na música brasileira. O crescimento desses gêneros específicos é decorrente da constante evolução da paisagem musical que temos em nosso país, onde a cada ano vemos uma renovação nos artistas, nas obras, nos ouvintes e nos contextos socioculturais, consequentemente, novas variações de gêneros musicais.&nbsp;</p><p dir=\"ltr\">Em resumo, esse dinamismo na música contemporânea é o principal fator que impulsiona o crescimento desses estilos. Dessa forma, se abre espaço para novos artistas, com novas ideias e novas formas de expressão.&nbsp;</p><p><br data-mce-bogus=\"1\"></p>",
+              "year": "Gêneros Musicais em Ascensão"
+            },
+            {
+              "year": "Globalização da Música Brasileira",
+              "data": "<p dir=\"ltr\">Foi influenciada por tendências musicais globais, resultando em fusões de estilos e colaborações internacionais. Artistas brasileiros passaram a incorporar elementos do pop, do hip-hop, do reggaeton e de outros estilos em suas produções, resultando em fusões inovadoras e colaborações interculturais. Da bossa – nova ao samba – rock, do tropicalismo à música eletrônica, a capacidade dos artistas brasileiros de incorporar elementos de diferentes tradições musicais tem contribuído para a originalidade da cena musical brasileira.</p><p dir=\"ltr\">Neste cenário, a música brasileira ganhou muito espaço na indústria musical mundialmente. Artistas brasileiros têm cada vez mais parcerias com músicos de diferentes partes do mundo, parcerias essas que nos trouxeram espaço em festivais conhecidos internacionalmente e trazendo um alcance a novos públicos.</p><p dir=\"ltr\">Outro ponto importante para a globalização foi a revolução digital. Facilitando muito o acesso, tendo um papel crucial na difusão da música brasileira além das nossas fronteiras. O próximo tópico será específico sobre este assunto.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">A disseminação da música como um todo, não só no Brasil, foi intensamente impulsionada pela ascensão das plataformas de streaming, como Spotify e Deezer, assim como pelas redes sociais, que permitiram que os artistas alcançassem um público ainda mais amplo.</p><p dir=\"ltr\">Com as redes sociais, o fenômeno da viralidade tem impulsionado o sucesso de muitas músicas e artistas, levando um impacto significativo na visibilidade e popularidade de determinados gêneros musicais.</p><p dir=\"ltr\">Revolucionando a forma como as pessoas consomem músicas, essas ferramentas digitais trouxeram o acesso praticamente ilimitado a qualquer música, a qualquer momento e de qualquer lugar. Assim, aumentando a liberdade de explorar novos gêneros e artistas com facilidade.</p><p dir=\"ltr\">As redes sociais também fazem com que os artistas fiquem muito mais próximos do seu público, permitindo que os ouvintes tenham um envolvimento ainda maior com seus artistas preferidos e com suas músicas. Como consequência, é gerado um engajamento direto, se criando cada vez mais subculturas dentro dos gêneros, criando um senso de comunidade.</p><p><br data-mce-bogus=\"1\"></p>",
+              "year": "Tecnologia e Redes Sociais"
+            },
+            {
+              "year": "Temas Abordados nas Letras",
+              "data": "<p dir=\"ltr\">As letras das músicas brasileiras contemporâneas abordam uma variedade de temas, incluindo questões sociais, amor, superação e celebração da cultura brasileira. Cada gênero musical possui suas próprias peculiaridades temáticas que ecoam as experiências e realidades vividas por diferentes comunidades no Brasil.</p><p dir=\"ltr\">Neste século, com novas tendências e fusões surgindo, a forma como os artistas se expressão teve uma evolução. Explorando os temas abordados por alguns dos gêneros mais proeminentes desta era, vemos o Funk e o POP abordando temas relacionados à vida nas favelas, festas, sensualidade e desigualdade social, mas também incorporam elementos de autoexpressão, empoderamento e reflexões sobre identidade. O Rap e o Trap abordam questões sociais contemporâneas, como desigualdade racial, violência urbana, discriminação de gênero, além de promover mensagens de resistência, superação e orgulho da cultura afro-brasileira. Além disso, o trap muitas vezes incorpora elementos de autoafirmação, superação de adversidades e a busca por reconhecimento e sucesso. As narrativas presentes nas letras do trap refletem as realidades vividas por muitos jovens nas cidades brasileiras, oferecendo uma expressão artística das experiências cotidianas e das lutas pessoais.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">A música brasileira contemporânea reflete a diversidade cultural e regional do Brasil, com artistas de diferentes estados e regiões contribuindo com estilos musicais distintos. Por exemplo, o forró do Nordeste, o samba do Rio de Janeiro, o funk de São Paulo e o sertanejo de Goiás são apenas alguns exemplos da riqueza musical presente no país.&nbsp;</p><p dir=\"ltr\">Cada região do Brasil possui suas próprias tradições, ritmos distintos e influências culturais que se refletem na música regional. Explorando as principais manifestações musicais de diferentes regiões do Brasil, vemos o Norte do país com o tecnobrega, originário de Belém do Pará, é um exemplo marcante de como a região contribuiu para a diversidade musical brasileira neste século. O forró eletrônico, surgido no Nordeste brasileiro, combinou elementos tradicionais do forró com influências eletrônicas modernas, resultando em um estilo dançante e popular. No sudeste do Brasil, o funk carioca surgiu como um dos gêneros mais influentes deste século.</p><p dir=\"ltr\">Esses são apenas alguns exemplos que ilustram como a diversidade regional na música brasileira foi dinâmica ao longo do século.</p><p><br data-mce-bogus=\"1\"></p>",
+              "year": "Diversidade Regional "
+            }
+          ],
+          "name": "Dias atuais",
+          "year": "2000",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/8f5d6e1a-5d0c-4937-9628-09253137fd55"
+        },
+        {
+          "details": [
+            {
+              "data": "<p dir=\"ltr\">O funk brasileiro a partir do ano 2000 experimentou uma evolução notável, tanto em termos de popularidade quanto de diversificação de estilos. Esse período viu a ascensão do \"funk carioca\", um gênero musical enérgico e dançante que se tornou uma parte essencial da cultura musical brasileira. Artistas como MC Marcinho, Claudinho &amp; Buchecha, Bonde do Tigrão e o grupo \"Os Hawaianos\" foram alguns dos principais expoentes do funk carioca no início dos anos 2000. Suas músicas contagiaram as pistas de dança e se tornaram hinos em festas e bailes por todo o Brasil. No entanto, o funk carioca não parou por aí.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Com o passar dos anos, vimos uma diversificação significativa do gênero, com subgêneros como o \"funk ostentação\" em São Paulo, popularizado por artistas como MC Guimê e MC Rodolfinho. Esse estilo trouxe uma abordagem lírica mais voltada para o luxo e o sucesso material. Além disso, o surgimento do \"funk proibidão\" trouxe uma vertente mais crua e explícita do gênero, com letras que abordam temas controversos e muitas vezes relacionados à realidade das comunidades urbanas. A partir de meados da década de 2010, artistas como Anitta e Ludmilla incorporaram elementos do funk em suas músicas pop, contribuindo para a popularização do gênero em um contexto mais amplo. O funk brasileiro é verdadeiramente um fenômeno cultural que continua a evoluir e se reinventar.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Em uma das de suas vertentes, temos o Funk consciente. Nele as letras abordam principalmente questões sociais, políticas, e claro, a conscientização. Esse estilo tem imensa importante nas favelas brasileiras, com sua grande influência entre os jovens, os ajuda a seguirem em uma vida limpa de erros. É comum vermos também nessa vertente protestos mostrando a indignação com preconceitos, desigualdades e favorecimento a certas classes.</p><p dir=\"ltr\">Ao longo de sua história, o Funk enfrentou controvérsias relacionadas à sua temática lírica, representação das favelas e percepção pública. No entanto, o gênero também evoluiu como forma de expressão artística e cultural, ganhando reconhecimento internacional e influenciando outros estilos musicais ao redor do mundo. Tem servido como um terreno fértil para inovações musicais, especialmente no que diz respeito à produção musical, uso de samples e experimentações sonoras. Essa abordagem inovadora tem contribuído para a evolução do gênero, mantendo-o relevante na paisagem musical atual. O Funk continua a evoluir e se reinventar, sendo importante na cultura e na expressão artística.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Artistas notáveis:</p><ul><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Mc Marcinho</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">DJ Marlboro</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Mc Guimê</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Bonde do tigrão</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Kevin o Chris</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Mc Kevin</p></li></ul><p><br data-mce-bogus=\"1\"></p>"
+            }
+          ],
+          "name": "Funk",
+          "year": "2010",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/32510bb0-0d54-4f16-a2e7-2a3f7afa7155"
+        },
+        {
+          "details": [
+            {
+              "data": "<p dir=\"ltr\">O pop brasileiro contemporâneo é uma fusão de influências globais e regionais, refletindo a diversidade cultural e musical do país. Nesse período, vimos uma explosão de artistas e gêneros que conquistaram tanto o cenário nacional quanto o internacional. Artistas têm desempenhado papéis significativos na evolução do pop brasileiro, incorporando elementos de funk, reggaeton, eletrônica e ritmos brasileiros em suas produções.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Esses artistas têm alcançado projeção internacional, colaborando com músicos de renome mundial e levando a sonoridade brasileira para novos públicos ao redor do globo. Além disso, a cena pop brasileira contemporânea é caracterizada por uma abordagem visualmente arrojada e inovadora, com videoclipes elaborados e performances impactantes que contribuem para a identidade única do gênero.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">A diversidade de estilos e sonoridades presentes no pop brasileiro contemporâneo reflete a riqueza cultural do país, proporcionando uma experiência auditiva envolvente e dinâmica. A mistura de influências internacionais com elementos autenticamente brasileiros resulta em composições cativantes que continuam a atrair um público diversificado, tanto dentro quanto fora do Brasil.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">A evolução contínua do pop brasileiro acontece à medida que os artistas exploram novas sonoridades, colaborações inovadoras e narrativas que refletem as complexidades da sociedade atual.</p><p dir=\"ltr\"><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Artistas notáveis:</p><ul><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Anitta</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Pablo Vittar</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Ludmilla</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">IZA</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Gloria Groove</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Luísa sonza</p></li></ul><p><br data-mce-bogus=\"1\"></p>"
+            }
+          ],
+          "name": "Pop",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/4e3eb38a-8835-48a7-ba14-2d15f820c543",
+          "year": "Tempos atuais"
+        },
+        {
+          "details": [
+            {
+              "data": "<p dir=\"ltr\">O surgimento do trap na música é um fenômeno interessante que vale a pena explorar. O trap tem suas raízes na cena hip-hop dos Estados Unidos, em particular na região de Atlanta, na década de 1990. Inicialmente, o trap se destacava por suas batidas pesadas, letras que abordavam temas como a vida nas ruas, o crime e o uso de drogas, bem como o uso distintivo de sintetizadores e samples.</p><p dir=\"ltr\">Ao longo do tempo, o trap evoluiu para incorporar elementos de outros gêneros musicais, como o R&amp;B e a música eletrônica, resultando em uma sonoridade mais diversificada e influente. Artistas como T.I., Young Jeezy e Gucci Mane foram fundamentais para popularizar o trap e estabelecer seu lugar na cultura musical contemporânea.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">No Brasil, o trap ganhou destaque mais recentemente, trazendo uma abordagem única ao gênero e adaptando-o à realidade e à cultura brasileira. O trap nacional frequentemente incorpora elementos da música brasileira tradicional e outros gêneros locais, resultando em uma fusão cativante de estilos.</p><p dir=\"ltr\">A ascensão do trap nacional reflete a capacidade do gênero de se adaptar a diferentes contextos culturais e musicais, mantendo sua essência característica. É fascinante observar como o trap continua a evoluir e influenciar a paisagem musical no Brasil e além. Se houver mais aspectos específicos sobre o surgimento ou evolução do trap que você gostaria de explorar, estou aqui para compartilhar mais detalhes.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p dir=\"ltr\">Artistas como Emicida, Projota e Criolo foram fundamentais na consolidação do rap no Brasil, preparando o terreno para a evolução do trap. À medida que o trap ganhava popularidade globalmente, artistas brasileiros começaram a incorporar elementos desse gênero em suas produções, adaptando-o à realidade e às sonoridades locais.</p><p dir=\"ltr\">Nomes como Rashid, BK, Djonga e Baco Exu do Blues foram pioneiros na introdução do trap no contexto brasileiro, trazendo suas próprias experiências e perspectivas para as letras e batidas características do gênero. Suas músicas capturam as complexidades da vida urbana, abordando questões sociais, políticas e pessoais de maneira crua e autêntica.</p><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p><strong id=\"docs-internal-guid-7b140e8a-7fff-72d9-180c-459a5cdd096b\">Hoje, o trap brasileiro continua a evoluir e diversificar-se, incorporando influências de outros gêneros musicais nacionais e internacionais, enquanto mantém sua essência autêntica e provocativa. Sua popularidade crescente reflete não apenas a habilidade dos artistas em se reinventar, mas também a capacidade de se conectar com uma audiência ávida por autenticidade e representatividade.</strong></p>"
+            }
+          ],
+          "name": "Trap",
+          "year": "Tempos atuais",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/6729730a-0208-4f72-a8a9-54aa997da09e"
         }
       ]
     },
