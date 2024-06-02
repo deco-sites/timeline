@@ -7,13 +7,34 @@
       "title": "RITMOS DO TEMPO: A EVOLUÇÃO DA MÚSICA BRASILEIRA",
       "cards": [
         {
+          "name": "Introdução",
+          "details": [
+            {
+              "data": "<p dir=\"ltr\">UNIVERSIDADE ANHEMBI MORUMBI</p><p dir=\"ltr\">BACHARELADO EM PUBLICIDADE E PROPAGANDA</p><p><br></p>"
+            },
+            {
+              "data": "<p>DAYANE COSTA, GABRIELLA COSTA, IAGO PAZELI, ISABELA BUENO, ISABELLI VICTORIA CARNEIRO, JULIA STANLEY, MARIANA BIGE, RAFAEL GONÇALVES E VITOR CARNEIRO</p>"
+            },
+            {
+              "data": "<p>Linguagens e relações estéticas<br><br>Avenida Paulista/2024<br><br></p>"
+            },
+            {
+              "data": "<p>Os compositores Tom Jobim e Vinicius de Moraes em uma de suas obras - \"Se todos fossem iguais a você\" - , afirmam que \"a canção só tem razão se se cantar\".</p><p>O objetivo deste trabalho tem como base o estudo das origens, raízes e palavras da evolução musical brasileira em torno da vida e construção cultural desse povo.</p><p>A música é um constante fluxo de experiências, emoções e aprendizados que carregamos ao longo da vida.<br>Também é uma linguagem que transcende barreiras culturais e nos conecta de uma forma que só palavras, muitas vezes não conseguem.</p><p>Através das obras, podemos expressar quem somos e de onde viemos, o que estamos sentindo, o que acreditamos e muitas vezes os mais sinceros desejos.</p><p>A música passada veio para revolucionar o que já poderíamos considerar bom, para mostrar quem éramos e o que hoje somos.<br>Trás consigo a inspiração, faz surgir novos marcos revolucionários, novas palavras, novas maneiras, novos costumes, novas culturas, novos gêneros e novos atos.</p><p>Elas também podem inspirar, motivar, confortar, desafiar, confundir, e assim, enriquecer nossa jornada pessoal.<br>É importante refletir sobre como utilizamos as palavras em nossa jornada, pois elas têm o potencial de transformar não apenas a nós mesmos, mas também o mundo ao nosso redor.&nbsp;</p>"
+            },
+            {
+              "data": "<p>Da palavra surge a vida, e da vida emergem as palavras que dão sentido e significado à nossa existência.</p><p>A música brasileira, extremamente rica em diversidades, serve como um espelho da evolução linguística e cultural do país. Desde os tempos coloniais até o cenário contemporâneo, a língua portuguesa presente nas canções reflete as transformações sociais, políticas e culturais que o Brasil vivenciou e ainda vivencia diariamente.&nbsp;</p><p>Ao longo das décadas, diferentes estilos e gêneros, como o frevo, o samba, a bossa nova, o rock e entre tantos outros, incorporaram gírias, regionalismos, moda e diversas influências estrangeiras, moldando o português de uma maneira única.</p><p>Através de uma análise das letras e das tendências linguísticas nas canções, este estudo identificou os principais marcos na evolução do português na música, para uma compreensão mais profunda de como a música, enquanto forma de arte e meio de comunicação, desempenha um papel crucial na evolução da língua e na construção da identidade cultural do país.</p><p>E assim fazemos da música brasileira, uma das mais engenhosas e poderosas. As palavras têm vida e possibilita o indivíduo a capacidade sentir na pele as maiores e diversas emoções…<br>Podemos dizer que dançamos diversas vezes ao longo do dia conforme a música e que muitas vezes a mesma, ou uma palavra em especial que nos move.</p>"
+            }
+          ],
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/d4789d11-e182-459c-b596-7f892d668c08"
+        },
+        {
           "name": " Introdução: Raízes",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/7a90d992-b0b0-4ab7-a7d7-99c47914f050",
           "description": "A riqueza e diversidade cultural do país são refletidas em sua música brasileira, que é influenciada por raízes indígenas, portuguesas e africanas. Estas influências se mesclaram desde os tempos coloniais para criar uma sonoridade única e vibrante. A música brasileira foi influenciada por ritmos e instrumentos africanos, como o batuque e o berimbau, além de melodias e formas musicais introduzidos por Portugal durante o período colonial. Além disso, as letras e narrativas das músicas refletem as experiências históricas dos africanos e de seus descendentes no Brasil, abordando temas como a celebração da cultura negra e a luta contra a opressão. Até hoje, a música brasileira ainda é influenciada pelas raizes africanas. Artistas como Gilberto Gil e Caetano Veloso incorporaram elementos da música africana em seus trabalhos. Por fim, a música brasileira é uma celebração da diversidade cultural do país, com as influências das raízes africanas, portuguesas e indígenas ressoando em cada nota, destacando a força e resiliência dos povos que contribuíram para sua formação ao longo dos séculos.",
           "details": [
             {
-              "data": "<p><strong id=\"docs-internal-guid-c6af2988-7fff-33e3-8af4-f42681652d6c\">A riqueza e diversidade cultural do país são refletidas em sua música brasileira, que é influenciada por raízes indígenas, portuguesas e africanas. Estas influências se mesclaram desde os tempos coloniais para criar uma sonoridade única e vibrante.&nbsp;<br></strong></p>",
-              "year": "Introdução"
+              "year": "Introdução",
+              "data": "<p><strong id=\"docs-internal-guid-c6af2988-7fff-33e3-8af4-f42681652d6c\">A riqueza e diversidade cultural do país são refletidas em sua música brasileira, que é influenciada por raízes indígenas, portuguesas e africanas. Estas influências se mesclaram desde os tempos coloniais para criar uma sonoridade única e vibrante.&nbsp;<br></strong></p>"
             },
             {
               "data": "<p><strong id=\"docs-internal-guid-c6af2988-7fff-33e3-8af4-f42681652d6c\">A música brasileira foi influenciada por ritmos e instrumentos africanos, como o batuque e o berimbau, além de melodias e formas musicais introduzidos por Portugal durante o período colonial. Além disso, as letras e narrativas das músicas refletem as experiências históricas dos africanos e de seus descendentes no Brasil, abordando temas como a celebração da cultura negra e a luta contra a opressão. </strong></p>"
@@ -29,12 +50,10 @@
         },
         {
           "name": "Período Colonial",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/b9c225f5-7e03-419a-9c4e-bc46c9440fe7",
-          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
           "details": [
             {
-              "year": "1500 - 1900",
-              "data": "<p dir=\"ltr\">A história da música brasileira do século 1500 a 1900 é composta por uma riqueza de influências de culturas indígenas, africanas e europeias. Quando os portugueses chegaram em 1500, a música indígena já era vibrante no período colonial. Novas danças e músicas chegaram à cultura local com a chegada dos primeiros escravos africanos em 1538. Aproximadamente 3,5 milhões de africanos chegaram ao Brasil até 1850, trazendo elementos essenciais para a música brasileira original.</p><p><br data-mce-bogus=\"1\"></p>"
+              "data": "<p dir=\"ltr\">A história da música brasileira do século 1500 a 1900 é composta por uma riqueza de influências de culturas indígenas, africanas e europeias. Quando os portugueses chegaram em 1500, a música indígena já era vibrante no período colonial. Novas danças e músicas chegaram à cultura local com a chegada dos primeiros escravos africanos em 1538. Aproximadamente 3,5 milhões de africanos chegaram ao Brasil até 1850, trazendo elementos essenciais para a música brasileira original.</p><p><br data-mce-bogus=\"1\"></p>",
+              "year": "1500 - 1900"
             },
             {
               "data": "<p>A música foi um recurso eficaz para a conversão de povos indígenas ao cristianismo quando a Companhia de Jesus chegou ao Brasil em 1549. As atividades jesuíticas incluíram o ensino de música, e a prática musical continuou nos séculos XVII e XVIII. A música jesuítica no Brasil não foi tão desenvolvida quanto nas reduções espanholas, mas influenciou a formação da cultura brasileira, apesar de vasta documentação.</p>"
@@ -46,11 +65,12 @@
               "data": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/iioWcTmL9mQ?si=0qqe1ZwUakyovo2R\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\" data-mce-src=\"https://www.youtube.com/embed/iioWcTmL9mQ?si=0qqe1ZwUakyovo2R\"></iframe></p>"
             }
           ],
-          "color": "#915f5f",
-          "year": "1530"
+          "year": "1530",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/b9c225f5-7e03-419a-9c4e-bc46c9440fe7",
+          "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
+          "color": "#915f5f"
         },
         {
-          "name": "Barroco",
           "details": [
             {
               "data": "<p dir=\"ltr\">A época barroca, que aconteceu na Europa do final do século XVI ao XVIII e no Brasil de 1601 a 1768, teve impactos culturais significativos. Na Europa, escritores como Luis de Góngora e Francisco de Quevedo foram notáveis, enquanto ritmos instrumentais foram criados por grandes compositores como Antonio Vivaldi e Johann Sebastian Bach. O barroco brasileiro foi influenciado pela Contrarreforma Católica e viu o surgimento de importantes obras literárias e artísticas.<br></p>"
@@ -62,6 +82,7 @@
               "data": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MwaNTsOq29A?si=flWTkihyuq1p_Awd\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\" data-mce-src=\"https://www.youtube.com/embed/MwaNTsOq29A?si=flWTkihyuq1p_Awd\"></iframe></p>"
             }
           ],
+          "name": "Barroco",
           "year": "1600",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/5a5fb390-acc4-4b4d-afe4-c84f8ad3d986"
         },
@@ -136,12 +157,12 @@
               "data": "<p>● Diversificação da Música Brasileira no Século XIX:<br>A música brasileira começou a se diversificar durante o século XIX.<br>A música popular passou a ser mais presente em festas e eventos populares.<br>Enquanto isso, a música clássica e operística era apreciada principalmente pela elite<br>cultural.</p><p>●Surgiram novos gêneros musicais, incluindo o maxixe e o choro.</p><p>● Influência da Família Real Portuguesa em 1808:<br>A chegada da família real portuguesa em 1808 trouxe uma forte influência da música<br>europeia para o Brasil.<br>Especialmente notável foi a influência da música clássica europeia.<br>A música popular brasileira também se sofisticou, com a introdução de novos<br>instrumentos musicais, como o violão.</p><p>● Evolução da Música Afro-Brasileira:<br>A música afro-brasileira continuou a evoluir durante o século XIX.<br>Houve a introdução de tradições religiosas africanas, como o candomblé, que<br>deixaram uma marca significativa na música brasileira.</p>"
             },
             {
-              "year": "1848",
-              "data": "<p>Joaquim Callado (1848-1880), compositor e flautista, é considerado o pai do choro e criador<br>do Choro Carioca, o primeiro conjunto instrumental com flauta, cavaquinho e violão.<br>Tornou-se o instrumentista mais popular do Rio de Janeiro durante o Império. Seu maior<br>sucesso, \"Flor Amorosa,\" é conhecido como o primeiro choro composto. Estreou como<br>flautista no Teatro Ginásio Dramático em 1866. Em 1867, obteve sucesso com a quadrilha<br>\"Carnaval de 1867\" e publicou a polca \"Querida por todos,\" dedicada a Chiquinha Gonzaga.<br>Em 1870, foi fundamental na estilização do choro, tornando-o um dos principais gêneros da<br>música popular brasileira.</p>"
+              "data": "<p>Joaquim Callado (1848-1880), compositor e flautista, é considerado o pai do choro e criador<br>do Choro Carioca, o primeiro conjunto instrumental com flauta, cavaquinho e violão.<br>Tornou-se o instrumentista mais popular do Rio de Janeiro durante o Império. Seu maior<br>sucesso, \"Flor Amorosa,\" é conhecido como o primeiro choro composto. Estreou como<br>flautista no Teatro Ginásio Dramático em 1866. Em 1867, obteve sucesso com a quadrilha<br>\"Carnaval de 1867\" e publicou a polca \"Querida por todos,\" dedicada a Chiquinha Gonzaga.<br>Em 1870, foi fundamental na estilização do choro, tornando-o um dos principais gêneros da<br>música popular brasileira.</p>",
+              "year": "1848"
             },
             {
-              "year": "1863",
-              "data": "<p>Ernesto Nazareth (1863-1934) foi um importante compositor brasileiro, focado em obras<br>instrumentais para piano. Compôs sua primeira peça, a polca-lundu \"Você bem sabe,\" aos<br>14 anos. Ao longo de sua vida, escreveu 211 peças.</p>"
+              "data": "<p>Ernesto Nazareth (1863-1934) foi um importante compositor brasileiro, focado em obras<br>instrumentais para piano. Compôs sua primeira peça, a polca-lundu \"Você bem sabe,\" aos<br>14 anos. Ao longo de sua vida, escreveu 211 peças.</p>",
+              "year": "1863"
             },
             {
               "year": "1875",
@@ -310,8 +331,8 @@
               "year": "Anos 50 e 60 "
             },
             {
-              "year": "Década de 60",
-              "data": "<p>Então, nos anos 60, algo mágico aconteceu. Surgiu a Tropicália, com artistas como Caetano Veloso, Gilberto Gil e Os Mutantes misturando influências brasileiras com psicodelia e experimentação. Era como se a música estivesse colorindo os sons da natureza e das ruas, com letras que eram como poesia cantada, cheias de reflexões sobre o mundo ao nosso redor.</p>"
+              "data": "<p>Então, nos anos 60, algo mágico aconteceu. Surgiu a Tropicália, com artistas como Caetano Veloso, Gilberto Gil e Os Mutantes misturando influências brasileiras com psicodelia e experimentação. Era como se a música estivesse colorindo os sons da natureza e das ruas, com letras que eram como poesia cantada, cheias de reflexões sobre o mundo ao nosso redor.</p>",
+              "year": "Década de 60"
             },
             {
               "year": "Anos 70 ",
@@ -431,8 +452,8 @@
             }
           ],
           "name": "Rap",
-          "year": "1999",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/5287b333-60af-4d1d-a065-0061c34f5ac4"
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/5287b333-60af-4d1d-a065-0061c34f5ac4",
+          "year": "1999"
         },
         {
           "details": [
@@ -452,8 +473,8 @@
               "year": "Tecnologia e Redes Sociais"
             },
             {
-              "year": "Temas Abordados nas Letras",
-              "data": "<p dir=\"ltr\">As letras das músicas brasileiras contemporâneas abordam uma variedade de temas, incluindo questões sociais, amor, superação e celebração da cultura brasileira. Cada gênero musical possui suas próprias peculiaridades temáticas que ecoam as experiências e realidades vividas por diferentes comunidades no Brasil.</p><p dir=\"ltr\">Neste século, com novas tendências e fusões surgindo, a forma como os artistas se expressão teve uma evolução. Explorando os temas abordados por alguns dos gêneros mais proeminentes desta era, vemos o Funk e o POP abordando temas relacionados à vida nas favelas, festas, sensualidade e desigualdade social, mas também incorporam elementos de autoexpressão, empoderamento e reflexões sobre identidade. O Rap e o Trap abordam questões sociais contemporâneas, como desigualdade racial, violência urbana, discriminação de gênero, além de promover mensagens de resistência, superação e orgulho da cultura afro-brasileira. Além disso, o trap muitas vezes incorpora elementos de autoafirmação, superação de adversidades e a busca por reconhecimento e sucesso. As narrativas presentes nas letras do trap refletem as realidades vividas por muitos jovens nas cidades brasileiras, oferecendo uma expressão artística das experiências cotidianas e das lutas pessoais.</p><p><br data-mce-bogus=\"1\"></p>"
+              "data": "<p dir=\"ltr\">As letras das músicas brasileiras contemporâneas abordam uma variedade de temas, incluindo questões sociais, amor, superação e celebração da cultura brasileira. Cada gênero musical possui suas próprias peculiaridades temáticas que ecoam as experiências e realidades vividas por diferentes comunidades no Brasil.</p><p dir=\"ltr\">Neste século, com novas tendências e fusões surgindo, a forma como os artistas se expressão teve uma evolução. Explorando os temas abordados por alguns dos gêneros mais proeminentes desta era, vemos o Funk e o POP abordando temas relacionados à vida nas favelas, festas, sensualidade e desigualdade social, mas também incorporam elementos de autoexpressão, empoderamento e reflexões sobre identidade. O Rap e o Trap abordam questões sociais contemporâneas, como desigualdade racial, violência urbana, discriminação de gênero, além de promover mensagens de resistência, superação e orgulho da cultura afro-brasileira. Além disso, o trap muitas vezes incorpora elementos de autoafirmação, superação de adversidades e a busca por reconhecimento e sucesso. As narrativas presentes nas letras do trap refletem as realidades vividas por muitos jovens nas cidades brasileiras, oferecendo uma expressão artística das experiências cotidianas e das lutas pessoais.</p><p><br data-mce-bogus=\"1\"></p>",
+              "year": "Temas Abordados nas Letras"
             },
             {
               "data": "<p dir=\"ltr\">A música brasileira contemporânea reflete a diversidade cultural e regional do Brasil, com artistas de diferentes estados e regiões contribuindo com estilos musicais distintos. Por exemplo, o forró do Nordeste, o samba do Rio de Janeiro, o funk de São Paulo e o sertanejo de Goiás são apenas alguns exemplos da riqueza musical presente no país.&nbsp;</p><p dir=\"ltr\">Cada região do Brasil possui suas próprias tradições, ritmos distintos e influências culturais que se refletem na música regional. Explorando as principais manifestações musicais de diferentes regiões do Brasil, vemos o Norte do país com o tecnobrega, originário de Belém do Pará, é um exemplo marcante de como a região contribuiu para a diversidade musical brasileira neste século. O forró eletrônico, surgido no Nordeste brasileiro, combinou elementos tradicionais do forró com influências eletrônicas modernas, resultando em um estilo dançante e popular. No sudeste do Brasil, o funk carioca surgiu como um dos gêneros mais influentes deste século.</p><p dir=\"ltr\">Esses são apenas alguns exemplos que ilustram como a diversidade regional na música brasileira foi dinâmica ao longo do século.</p><p><br data-mce-bogus=\"1\"></p>",
@@ -461,8 +482,8 @@
             }
           ],
           "name": "Dias atuais",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/8f5d6e1a-5d0c-4937-9628-09253137fd55",
-          "year": "2000"
+          "year": "2000",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/8f5d6e1a-5d0c-4937-9628-09253137fd55"
         },
         {
           "details": [
@@ -535,6 +556,17 @@
           "name": "Trap",
           "year": "Tempos atuais",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/6729730a-0208-4f72-a8a9-54aa997da09e"
+        },
+        {
+          "details": [
+            {
+              "data": "<p>Os compositores Tom Jobim e Vinicius de Moraes em uma de suas obras - \"Se todos fossem iguais a você\" - , afirmam que \"a canção só tem razão se se cantar\".</p><p>O objetivo deste trabalho tem como base o estudo das origens, raízes e palavras da evolução musical brasileira em torno da vida e construção cultural desse povo.</p><p>A música é um constante fluxo de experiências, emoções e aprendizados que carregamos ao longo da vida.<br>Também é uma linguagem que transcende barreiras culturais e nos conecta de uma forma que só palavras, muitas vezes não conseguem.</p><p>Através das obras, podemos expressar quem somos e de onde viemos, o que estamos sentindo, o que acreditamos e muitas vezes os mais sinceros desejos.</p>"
+            },
+            {
+              "data": "<p>A música passada veio para revolucionar o que já poderíamos considerar bom, para mostrar quem éramos e o que hoje somos.<br>Trás consigo a inspiração, faz surgir novos marcos revolucionários, novas palavras, novas maneiras, novos costumes, novas culturas, novos gêneros e novos atos.</p><p>Elas também podem inspirar, motivar, confortar, desafiar, confundir, e assim, enriquecer nossa jornada pessoal.<br>É importante refletir sobre como utilizamos as palavras em nossa jornada, pois elas têm o potencial de transformar não apenas a nós mesmos, mas também o mundo ao nosso redor.&nbsp;</p><p>Da palavra surge a vida, e da vida emergem as palavras que dão sentido e significado à nossa existência.<br></p>"
+            }
+          ],
+          "name": "Justificativa"
         }
       ]
     },
