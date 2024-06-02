@@ -28,13 +28,28 @@
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/d4789d11-e182-459c-b596-7f892d668c08"
         },
         {
-          "name": " Introdução: Raízes",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/7a90d992-b0b0-4ab7-a7d7-99c47914f050",
-          "description": "A riqueza e diversidade cultural do país são refletidas em sua música brasileira, que é influenciada por raízes indígenas, portuguesas e africanas. Estas influências se mesclaram desde os tempos coloniais para criar uma sonoridade única e vibrante. A música brasileira foi influenciada por ritmos e instrumentos africanos, como o batuque e o berimbau, além de melodias e formas musicais introduzidos por Portugal durante o período colonial. Além disso, as letras e narrativas das músicas refletem as experiências históricas dos africanos e de seus descendentes no Brasil, abordando temas como a celebração da cultura negra e a luta contra a opressão. Até hoje, a música brasileira ainda é influenciada pelas raizes africanas. Artistas como Gilberto Gil e Caetano Veloso incorporaram elementos da música africana em seus trabalhos. Por fim, a música brasileira é uma celebração da diversidade cultural do país, com as influências das raízes africanas, portuguesas e indígenas ressoando em cada nota, destacando a força e resiliência dos povos que contribuíram para sua formação ao longo dos séculos.",
+          "name": "Justificativa",
           "details": [
             {
-              "year": "Introdução",
-              "data": "<p><strong id=\"docs-internal-guid-c6af2988-7fff-33e3-8af4-f42681652d6c\">A riqueza e diversidade cultural do país são refletidas em sua música brasileira, que é influenciada por raízes indígenas, portuguesas e africanas. Estas influências se mesclaram desde os tempos coloniais para criar uma sonoridade única e vibrante.&nbsp;<br></strong></p>"
+              "data": "<p>Os compositores Tom Jobim e Vinicius de Moraes em uma de suas obras - \"Se todos fossem iguais a você\" - , afirmam que \"a canção só tem razão se se cantar\".</p><p>O objetivo deste trabalho tem como base o estudo das origens, raízes e palavras da evolução musical brasileira em torno da vida e construção cultural desse povo.</p><p>A música é um constante fluxo de experiências, emoções e aprendizados que carregamos ao longo da vida.<br>Também é uma linguagem que transcende barreiras culturais e nos conecta de uma forma que só palavras, muitas vezes não conseguem.</p><p>Através das obras, podemos expressar quem somos e de onde viemos, o que estamos sentindo, o que acreditamos e muitas vezes os mais sinceros desejos.</p>"
+            },
+            {
+              "data": "<p>A música passada veio para revolucionar o que já poderíamos considerar bom, para mostrar quem éramos e o que hoje somos.<br>Trás consigo a inspiração, faz surgir novos marcos revolucionários, novas palavras, novas maneiras, novos costumes, novas culturas, novos gêneros e novos atos.</p><p>Elas também podem inspirar, motivar, confortar, desafiar, confundir, e assim, enriquecer nossa jornada pessoal.<br>É importante refletir sobre como utilizamos as palavras em nossa jornada, pois elas têm o potencial de transformar não apenas a nós mesmos, mas também o mundo ao nosso redor.&nbsp;</p><p>Da palavra surge a vida, e da vida emergem as palavras que dão sentido e significado à nossa existência.<br></p>"
+            },
+            {
+              "data": "<p>A música brasileira, extremamente rica em diversidades, serve como um espelho da evolução linguística e cultural do país. Desde os tempos coloniais até o cenário contemporâneo, a língua portuguesa presente nas canções reflete as transformações sociais, políticas e culturais que o Brasil vivenciou e ainda vivencia diariamente.&nbsp;</p><p>Ao longo das décadas, diferentes estilos e gêneros, como o frevo, o samba, a bossa nova, o rock e entre tantos outros, incorporaram gírias, regionalismos, moda e diversas influências estrangeiras, moldando o português de uma maneira única.<br></p>"
+            },
+            {
+              "data": "<p>Através de uma análise das letras e das tendências linguísticas nas canções, este estudo identificou os principais marcos na evolução do português na música, para uma compreensão mais profunda de como a música, enquanto forma de arte e meio de comunicação, desempenha um papel crucial na evolução da língua e na construção da identidade cultural do país.</p><p>E assim fazemos da música brasileira, uma das mais engenhosas e poderosas. As palavras têm vida e possibilita o indivíduo a capacidade sentir na pele as maiores e diversas emoções…<br>Podemos dizer que dançamos diversas vezes ao longo do dia conforme a música e que muitas vezes a mesma, ou uma palavra em especial que nos move.</p>"
+            }
+          ]
+        },
+        {
+          "name": " Introdução: Raízes",
+          "details": [
+            {
+              "data": "<p><strong id=\"docs-internal-guid-c6af2988-7fff-33e3-8af4-f42681652d6c\">A riqueza e diversidade cultural do país são refletidas em sua música brasileira, que é influenciada por raízes indígenas, portuguesas e africanas. Estas influências se mesclaram desde os tempos coloniais para criar uma sonoridade única e vibrante.&nbsp;<br></strong></p>",
+              "year": "Introdução"
             },
             {
               "data": "<p><strong id=\"docs-internal-guid-c6af2988-7fff-33e3-8af4-f42681652d6c\">A música brasileira foi influenciada por ritmos e instrumentos africanos, como o batuque e o berimbau, além de melodias e formas musicais introduzidos por Portugal durante o período colonial. Além disso, as letras e narrativas das músicas refletem as experiências históricas dos africanos e de seus descendentes no Brasil, abordando temas como a celebração da cultura negra e a luta contra a opressão. </strong></p>"
@@ -46,10 +61,11 @@
               "data": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DH0Sv-gPwnw?si=J8SwA9aPuzhhQE13\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\" data-mce-src=\"https://www.youtube.com/embed/DH0Sv-gPwnw?si=J8SwA9aPuzhhQE13\"></iframe></p>"
             }
           ],
-          "year": "1500"
+          "year": "1500",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/7a90d992-b0b0-4ab7-a7d7-99c47914f050",
+          "description": "A riqueza e diversidade cultural do país são refletidas em sua música brasileira, que é influenciada por raízes indígenas, portuguesas e africanas. Estas influências se mesclaram desde os tempos coloniais para criar uma sonoridade única e vibrante. A música brasileira foi influenciada por ritmos e instrumentos africanos, como o batuque e o berimbau, além de melodias e formas musicais introduzidos por Portugal durante o período colonial. Além disso, as letras e narrativas das músicas refletem as experiências históricas dos africanos e de seus descendentes no Brasil, abordando temas como a celebração da cultura negra e a luta contra a opressão. Até hoje, a música brasileira ainda é influenciada pelas raizes africanas. Artistas como Gilberto Gil e Caetano Veloso incorporaram elementos da música africana em seus trabalhos. Por fim, a música brasileira é uma celebração da diversidade cultural do país, com as influências das raízes africanas, portuguesas e indígenas ressoando em cada nota, destacando a força e resiliência dos povos que contribuíram para sua formação ao longo dos séculos."
         },
         {
-          "name": "Período Colonial",
           "details": [
             {
               "data": "<p dir=\"ltr\">A história da música brasileira do século 1500 a 1900 é composta por uma riqueza de influências de culturas indígenas, africanas e europeias. Quando os portugueses chegaram em 1500, a música indígena já era vibrante no período colonial. Novas danças e músicas chegaram à cultura local com a chegada dos primeiros escravos africanos em 1538. Aproximadamente 3,5 milhões de africanos chegaram ao Brasil até 1850, trazendo elementos essenciais para a música brasileira original.</p><p><br data-mce-bogus=\"1\"></p>",
@@ -65,6 +81,7 @@
               "data": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/iioWcTmL9mQ?si=0qqe1ZwUakyovo2R\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\" data-mce-src=\"https://www.youtube.com/embed/iioWcTmL9mQ?si=0qqe1ZwUakyovo2R\"></iframe></p>"
             }
           ],
+          "name": "Período Colonial",
           "year": "1530",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/b9c225f5-7e03-419a-9c4e-bc46c9440fe7",
           "description": "A carta de Pero Vaz de Caminha diz \\\"No dia 23 de abril foi dita pelo padre Frei Henrique, em voz entoada e afinada, a nossa primeira missa. Os índios que a ela assistiram, acabada a cerimônia, levantaram-se muitos deles, tangeram corno ou buzina e começaram a saltar e a dançar. E faziam-no bem.",
@@ -436,8 +453,8 @@
             }
           ],
           "name": "Axé music",
-          "year": "1998",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/e46b4c12-fc3c-4cd9-b8ad-87dff35cf17a"
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/e46b4c12-fc3c-4cd9-b8ad-87dff35cf17a",
+          "year": "1998"
         },
         {
           "details": [
@@ -452,8 +469,8 @@
             }
           ],
           "name": "Rap",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/5287b333-60af-4d1d-a065-0061c34f5ac4",
-          "year": "1999"
+          "year": "1999",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10373/5287b333-60af-4d1d-a065-0061c34f5ac4"
         },
         {
           "details": [
@@ -560,13 +577,17 @@
         {
           "details": [
             {
-              "data": "<p>Os compositores Tom Jobim e Vinicius de Moraes em uma de suas obras - \"Se todos fossem iguais a você\" - , afirmam que \"a canção só tem razão se se cantar\".</p><p>O objetivo deste trabalho tem como base o estudo das origens, raízes e palavras da evolução musical brasileira em torno da vida e construção cultural desse povo.</p><p>A música é um constante fluxo de experiências, emoções e aprendizados que carregamos ao longo da vida.<br>Também é uma linguagem que transcende barreiras culturais e nos conecta de uma forma que só palavras, muitas vezes não conseguem.</p><p>Através das obras, podemos expressar quem somos e de onde viemos, o que estamos sentindo, o que acreditamos e muitas vezes os mais sinceros desejos.</p>"
+              "data": "<ul><li dir=\"ltr\" aria-level=\"1\"><h4 dir=\"ltr\" role=\"presentation\">Vestibular e música: História da Música Brasileira de 1500 até 1963. (Vestibularemus.blogspot.com)</h4></li></ul><p><br data-mce-bogus=\"1\"></p>"
             },
             {
-              "data": "<p>A música passada veio para revolucionar o que já poderíamos considerar bom, para mostrar quem éramos e o que hoje somos.<br>Trás consigo a inspiração, faz surgir novos marcos revolucionários, novas palavras, novas maneiras, novos costumes, novas culturas, novos gêneros e novos atos.</p><p>Elas também podem inspirar, motivar, confortar, desafiar, confundir, e assim, enriquecer nossa jornada pessoal.<br>É importante refletir sobre como utilizamos as palavras em nossa jornada, pois elas têm o potencial de transformar não apenas a nós mesmos, mas também o mundo ao nosso redor.&nbsp;</p><p>Da palavra surge a vida, e da vida emergem as palavras que dão sentido e significado à nossa existência.<br></p>"
-            }
+              "data": "<ul><li dir=\"ltr\" aria-level=\"1\"><h4 dir=\"ltr\" role=\"presentation\"><a href=\"https://www.anppom.org.br/anais/anaiscongresso_anppom_2005/sessao19/marcos_holler.pdf\" data-mce-href=\"https://www.anppom.org.br/anais/anaiscongresso_anppom_2005/sessao19/marcos_holler.pdf\">https://www.anppom.org.br/anais/anaiscongresso_anppom_2005/sessao19/marcos_holler.pdf</a></h4></li></ul><p><br data-mce-bogus=\"1\"></p>"
+            },
+            {
+              "data": "<p><strong id=\"docs-internal-guid-0207f27d-7fff-89b9-ac7d-23798d3cf763\"><a href=\"https://vestibularemus.blogspot.com/2015/06/historia-da-musica-brasileira-de-1500.html\" data-mce-href=\"https://vestibularemus.blogspot.com/2015/06/historia-da-musica-brasileira-de-1500.html\">https://vestibularemus.blogspot.com/2015/06/historia-da-musica-brasileira-de-1500.html</a></strong></p>"
+            },
+            {}
           ],
-          "name": "Justificativa"
+          "name": "Sites"
         }
       ]
     },
