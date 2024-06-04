@@ -8,7 +8,7 @@ export interface ICard {
   /**
    * @title Ano
    */
-  year?: number;
+  year?: string;
   /**
    * @title Imagem
    */
@@ -32,7 +32,7 @@ export interface IDetails {
   /**
    * @title Ano
    */
-  year?: number;
+  year?: string;
   /**
    * @title Data
    * @format html
@@ -60,20 +60,22 @@ const Card = ({ cardData, modal1, modalData }: Props) => {
 
   return (
     <div
-      class="bg-slate-400 w-[320px] flex flex-col justify-between rounded-md"
+      class="bg-slate-400 w-[320px] h-[380px] flex flex-col justify-between rounded-md"
       onClick={() => handleClick()}
     >
       <div class="p-2 text-white">
         <p class="text-4xl text-right mb-3">{year}</p>
         <h2 class="text-xl">{name}</h2>
       </div>
+      {/* <span class="max-w-[320px] max-h-[279px] object-cover"> */}
       <Image
         class="rounded-b-md"
         src={image || ""}
         alt={name || ""}
         width={320}
-        height={279}
+        height={280}
       />
+      {/* </span> */}
     </div>
   );
 };
