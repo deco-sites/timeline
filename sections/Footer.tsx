@@ -42,8 +42,7 @@ export interface Props {
 
 export default function Footer({
   logo = {
-    src:
-      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1527/67120bcd-936a-4ea5-a760-02ed5c4a3d04",
+    src: "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1527/67120bcd-936a-4ea5-a760-02ed5c4a3d04",
     alt: "Logo",
   },
   links = [
@@ -87,8 +86,7 @@ export default function Footer({
   },
   madeWith = {
     label: "Made with",
-    src:
-      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1527/cc202be0-af57-4b32-b9c9-d1d7dc97bf85",
+    src: "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1527/cc202be0-af57-4b32-b9c9-d1d7dc97bf85",
     href: "https://deco.cx",
   },
   copyright = "© 2024 deco.cx. All rights reserved.",
@@ -108,56 +106,6 @@ export default function Footer({
   return (
     <div class="container mx-auto  px-4 pt-16 text-sm">
       <div class="flex flex-col gap-20">
-        <div class="flex flex-col gap-6 justify-between lg:flex-row">
-          <div>
-            <Image
-              src={logo.src || ""}
-              width={100}
-              height={28}
-              alt={logo.alt}
-            />
-          </div>
-          <div class="flex gap-9">
-            {links?.map((link) => (
-              <div>
-                <h4 class="font-semibold mb-4">{link.title}</h4>
-                {link.items?.map((item) => (
-                  <a
-                    class="block hover:underline link no-underline py-1"
-                    href={item.href}
-                  >
-                    {item.label}
-                  </a>
-                ))}
-              </div>
-            ))}
-          </div>
-          <div class="lg:w-[40%]">
-            <h4 class="font-semibold mb-4">{subscribe?.title}</h4>
-            <form class="flex flex-col gap-4">
-              <p class="font-normal">{subscribe.description}</p>
-              <div class="flex gap-4">
-                <input
-                  type="text"
-                  placeholder="Enter your email"
-                  class="w-full input input-bordered input-primary"
-                />
-                <button
-                  type="submit"
-                  class="btn btn-outline font-normal"
-                  aria-label="Subscribe"
-                >
-                  Subscribe
-                </button>
-              </div>
-              <p
-                class="text-xs"
-                dangerouslySetInnerHTML={{ __html: subscribe.instructions }}
-              >
-              </p>
-            </form>
-          </div>
-        </div>
         <div class="border-primary border-t flex flex-col gap-4 items-center justify-between lg:flex-row lg:items-center py-8">
           <div class="flex flex-col gap-4 items-center lg:flex-row lg:gap-6">
             <a

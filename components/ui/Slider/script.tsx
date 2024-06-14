@@ -57,7 +57,7 @@ const setup = ({ rootId, scroll, interval, infinite }: Props) => {
   if (!root || !slider || !items || items.length === 0) {
     console.warn(
       "Missing necessary slider attributes. It will not work as intended. Necessary elements:",
-      { root, slider, items, rootId },
+      { root, slider, items, rootId }
     );
 
     return;
@@ -71,10 +71,7 @@ const setup = ({ rootId, scroll, interval, infinite }: Props) => {
       const item = items.item(index);
       const rect = item.getBoundingClientRect();
 
-      const ratio = intersectionX(
-        rect,
-        sliderRect,
-      ) / rect.width;
+      const ratio = intersectionX(rect, sliderRect) / rect.width;
 
       if (ratio > THRESHOLD) {
         indices.push(index);
@@ -89,7 +86,7 @@ const setup = ({ rootId, scroll, interval, infinite }: Props) => {
 
     if (!isHTMLElement(item)) {
       console.warn(
-        `Element at index ${index} is not an html element. Skipping carousel`,
+        `Element at index ${index} is not an html element. Skipping carousel`
       );
 
       return;
@@ -111,7 +108,7 @@ const setup = ({ rootId, scroll, interval, infinite }: Props) => {
     const pageIndex = Math.floor(indices[indices.length - 1] / itemsPerPage);
 
     goToItem(
-      isShowingFirst ? items.length - 1 : (pageIndex - 1) * itemsPerPage,
+      isShowingFirst ? items.length - 1 : (pageIndex - 1) * itemsPerPage
     );
   };
 
@@ -155,7 +152,7 @@ const setup = ({ rootId, scroll, interval, infinite }: Props) => {
           }
         }
       }),
-    { threshold: THRESHOLD, root: slider },
+    { threshold: THRESHOLD, root: slider }
   );
 
   items.forEach((item) => observer.observe(item));
@@ -163,6 +160,23 @@ const setup = ({ rootId, scroll, interval, infinite }: Props) => {
   for (let it = 0; it < (dots?.length ?? 0); it++) {
     dots?.item(it).addEventListener("click", () => goToItem(it));
   }
+
+  function handleScrollEvent(e: any) {
+    if (e.deltaY > 0) {
+      onClickNext();
+    } else {
+      onClickPrev();
+    }
+  }
+
+  let wheel_timer = 0;
+  slider.addEventListener("wheel", function (e) {
+    clearTimeout(wheel_timer);
+    e.preventDefault();
+    wheel_timer = setTimeout(function () {
+      handleScrollEvent(e);
+    }, 50);
+  });
 
   prev?.addEventListener("click", onClickPrev);
   next?.addEventListener("click", onClickNext);

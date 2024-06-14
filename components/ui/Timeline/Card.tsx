@@ -69,11 +69,13 @@ const Card = ({ cardData, modal1, modalData }: Props) => {
       </div>
       {/* <span class="max-w-[320px] max-h-[279px] object-cover"> */}
       <Image
-        class="rounded-b-md"
+        class="rounded-b-md h-[280px]"
         src={image || ""}
         alt={name || ""}
+        loading={"eager"}
         width={320}
         height={280}
+        decoding="async"
       />
       {/* </span> */}
     </div>

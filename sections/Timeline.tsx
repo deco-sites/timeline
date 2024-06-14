@@ -63,26 +63,36 @@ export default function Timeline({ title, cards }: Itimeline) {
   console.log("Timeline main: ", cards);
   const modal1 = useRef<HTMLDialogElement>(null);
   const modalData = useSignal<ICard>({});
+
   console.log("modalData: ", modalData.value);
 
   return (
-    <div class="container  mt-10 mb-40 ">
-      <p class="text-[#f48024] text-3xl mb-20">{title}</p>
-      {/* Searchbar */}
+    <div class="container  mt-10 mb-40">
+      <p class="text-[#f48024] text-3xl mb-6">{title}</p>
 
-      <Slider
-        class="carousel carousel-center w-full col-span-full row-span-full gap-6"
-        rootId={"test"}
-        infinite
-      >
-        {cards?.map((card, index) => (
-          <Slider.Item index={index} class="carousel-item">
-            <Card cardData={card} modal1={modal1} modalData={modalData} />
-          </Slider.Item>
-        ))}
-      </Slider>
+      {/* Searchbar */}
+      <div class="flex justify-center my-6">
+        <p>searchbar</p>
+      </div>
+
+      <div id="card-container">
+        <Slider
+          class="carousel carousel-start w-full col-span-full row-span-full gap-6"
+          rootId={"card-container"}
+          scroll={"auto"}
+        >
+          {cards?.map((card, index) => (
+            <Slider.Item index={index} class="carousel-item">
+              <Card cardData={card} modal1={modal1} modalData={modalData} />
+            </Slider.Item>
+          ))}
+        </Slider>
+      </div>
 
       {/* Timeline Slider */}
+      <div class="flex justify-center my-6">
+        <p>Timeline Slider</p>
+      </div>
 
       <dialog id="modal1" ref={modal1} class="modal">
         <div class="modal-box max-w-none">
@@ -109,7 +119,7 @@ export default function Timeline({ title, cards }: Itimeline) {
           <div id="body" class="flex w-full scrollbarModal overflow-x-scroll">
             <div class="w-max flex gap-4 mb-3">
               {modalData.value.details?.map((detail) => (
-                <div class="bg-slate-400 rounded-md p-4 min-w-min w-[320px]">
+                <div class="bg-slate-400 rounded-md p-4 min-w-min w-[350px]">
                   <h3>{detail.year}</h3>
                   <div
                     dangerouslySetInnerHTML={{ __html: detail.data || "" }}
